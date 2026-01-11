@@ -1,5 +1,6 @@
 # 💫 About Me:
-Personal AI/ML projects and data analysis<br>Machine learning projects and applied concepts<br>Understanding how ML models are used in real-world scenarios<br>AI/ML fundamentals using Python and Scikit-learn<br>Python programming, data analysis, Git & GitHub<br>I prefer learning concepts through practical project implementation<br>
+Personal AI/ML projects and data analysis<br>Machine learning projects and applied concepts<br>Understanding how ML models are used in real-world scenarios<br>AI/ML fundamentals using Python and Scikit-learn<br>Python programming, data analysis, Git & GitHub<br>I prefer learning concepts through practical project implementation.
+Currently exploring AI/ML projects with real-world applications.<br>
 
 
 ## 🌐 Socials:
